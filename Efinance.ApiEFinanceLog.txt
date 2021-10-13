@@ -1,0 +1,375 @@
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 0 - GetAll<T> only supports an entity with a [Key] or an [ExplicitKey] property
+Information: 0 - Application is shutting down...
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Application is shutting down...
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 0 - Nome de objeto 'Ufs' inválido.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 0 - Nome de objeto 'Ufs' inválido.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 0 - Nome de objeto 'Uf' inválido.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 0 - Nome de objeto 'Uf' inválido.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 0 - Nome de objeto 'dbo.Uf' inválido.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 0 - Nome de objeto 'dbo.Uf' inválido.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 1 - An unhandled exception has occurred while executing the request.
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 1 - An unhandled exception has occurred while executing the request.
+Information: 0 - Application is shutting down...
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 0 - Nome de objeto 'Clientes' inválido.
+Error: 0 - Nome de objeto 'Clientes' inválido.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance.Api
+Error: 0 - Nome de objeto 'Clientes' inválido.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\Efinance\Efinance\Efinance.Api
+Error: 0 - Nome de objeto 'Clientes' inválido.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\Efinance\Efinance\Efinance.Api
+Information: 0 - Application is shutting down...
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\Efinance\Efinance\Efinance.Api
+Critical: 0 - Unable to start Kestrel.
+Critical: 0 - Unable to start Kestrel.
+Critical: 0 - Unable to start Kestrel.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Error: 0 - Dados de cadeia ou binários seriam truncados.
+A instrução foi finalizada.
+Error: 0 - Dados de cadeia ou binários seriam truncados.
+A instrução foi finalizada.
+Error: 0 - Dados de cadeia ou binários seriam truncados.
+A instrução foi finalizada.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Critical: 0 - Unable to start Kestrel.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Error: 0 - Dados de cadeia ou binários seriam truncados.
+A instrução foi finalizada.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Error: 0 - Dados de cadeia ou binários seriam truncados.
+A instrução foi finalizada.
+Error: 0 - Dados de cadeia ou binários seriam truncados.
+A instrução foi finalizada.
+Error: 0 - Dados de cadeia ou binários seriam truncados.
+A instrução foi finalizada.
+Error: 0 - Dados de cadeia ou binários seriam truncados.
+A instrução foi finalizada.
+Error: 0 - Dados de cadeia ou binários seriam truncados.
+A instrução foi finalizada.
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\github\projects\Efinance\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\projetos\Efinance\Efinance.Api
+Information: 0 - Now listening on: https://localhost:5001
+Information: 0 - Now listening on: http://localhost:5000
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Development
+Information: 0 - Content root path: C:\projetos\Efinance\Efinance.Api

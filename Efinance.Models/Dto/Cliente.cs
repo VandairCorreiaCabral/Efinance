@@ -1,0 +1,32 @@
+﻿using Dapper.Contrib.Extensions;
+using System;
+using System.Collections.Generic;
+
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Efinance.Models.Dto
+{
+    [Table("dbo.Cliente")]
+    public class Cliente
+    {
+        [Key]
+        public int ClienteId { get; set; }
+
+        public string CpfCnpj { get; set; }
+
+        public string Email { get; set; }
+
+        public string NomeFantasia { get; set; }
+
+        public string RazaoSocial { get; set; }
+
+        public bool Ativo { get; set; }
+        public DateTime DataCadastro { get; set; }
+        public int CidadeId { get; set; }
+
+
+    }
+
+}
